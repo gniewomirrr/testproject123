@@ -1,0 +1,74 @@
+{
+"success":"ok",
+"data":[{
+			"name":"Use Daily most popular HashTags",
+			"content":"#love #TagsForLikes.com #TagsForLikesApp #TFLers #tweegram #photooftheday #20likes #amazing #smile #follow4follow #like4like #look #instalike #igers #picoftheday #food #instadaily #instafollow #followme #girl #iphoneonly #instagood #bestoftheday #instacool #instago #all_shots #follow #webstagram #colorful #style #swag",
+			"btnURL":"none"
+			},
+			{
+			"name":"Other best hashtags",
+			"content":"#fun #instagramers #TagsForLikes.com #TagsForLikesApp #food #smile #pretty #followme #nature #lol #dog #hair #onedirection #sunset #swag #throwbackthursday #instagood #beach #statigram #friends #hot #funny #blue #life #art #instahub #photo #cool #pink #bestoftheday #clouds",
+			"btnURL":"none"
+			},
+			{
+			"name":"Targeted hashtags",
+			"content":"#amazing #TagsForLikes.com #TagsForLikesApp #followme #all_shots #textgram #family #instago #igaddict #awesome #girls #instagood #my #bored #baby #music #red #green #water #harrystyles #bestoftheday #black #party #white #yum #flower #2012 #night #instalove #niallhoran #jj_forum",
+			"btnURL":"none"
+			},
+			{
+			"name":"Popular? - Post the right photos",
+			"content":"Many times, people will post anything that comes to mind from their lunch, their cat, or their empty beer bottles. If you want more likes, think of Instagram as your gallery. Its purpose should be to display only your best, highest quality pictures. The higher the quality of your pictures, the better the chances that you will get more likes on Instagram.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Post personal photos",
+			"content":"Post personal photos that show you with your significant others, friends, or family members. Just remember to only pick the best photos from each occasion.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Post photos of unique views",
+			"content":"Post photos of unique views. People will like your photo if it's something they've never seen before.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Post photos of your pet.",
+			"content":"Post photos of your pet. Just a few of the best photos of your dog and kitty are guaranteed to get some likes. Make sure your critter is doing something unique in the photo.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Don't overdo it with posting pictures of your food.",
+			"content":"Don't overdo it with posting pictures of your food. Too many people do this, so only post the photo if the food is truly exceptional.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Be an active member of the Instagram community.",
+			"content":"In order to receive, you have to give. Take the time to comment on a friend's photo, or to like a photo that you see. The more often you do this, the more likely people will be to reciprocate. If you never acknowledge the photos of your followers, you won't get much in return.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Go on other people's accounts",
+			"content":"Go on other people's accounts (generally ones with more 'following' than 'followers'). Like about 15-20 of their pictures. If they notice you, they will probably like some of your pictures back, and or follow you!",
+			"btnURL":"none"
+			},
+			{
+			"name":"Post your photos at the right time",
+			"content":"You could post the most amazing photo in the world, but no one will like it because it's the middle of the night. Most activity with your photo will happen in the first few hours, so make those hours count. Here's when you should post your photos: 1.Post them during the middle of the day during the week, when people are likely to be bored at work and surfing the web. Don't post them too early in the morning, or around five or six o'clock, or people will be too busy commuting to notice your photos. 2.Post your photos a little bit after dinner time. People tend to browse the web when they're tired in the evening. 3.Post your photos during special occasions. Halloween, Christmas, and Valentine's Day are popular times to post photos. Even though people should be too busy celebrating to notice your photos, they will actually be more likely to check them out.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Don't post your photos on a Friday or Saturday night, or most people won't like them",
+			"content":"People may see them, but they may not want to admit that they have nothing better to do on a weekend than to look at your photos.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Remember to be active after you post your photos",
+			"content":"After you post your photos, comment on a friend's photo or like a few photos to get your friends' attention.",
+			"btnURL":"none"
+			},
+			{
+			"name":"Link your Instagram account with your Facebook account",
+			"content":"Link your Instagram account with your Facebook account. This will only take a minute and will open up your photos to a much wider range of people.",
+			"btnURL":"none"
+			}
+		]											
+}
